@@ -1,5 +1,4 @@
-
-          'rgb(9, 105, 218)'**BET MANAGER**
+:soccer:**BET MANAGER**:soccer:
           
 
 - The goal is to build a system which can manage the football bets, in particular we want:
