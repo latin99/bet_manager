@@ -1,5 +1,5 @@
 
-          'rgb(9, 105, 218)' **BET MANAGER**
+          'rgb(9, 105, 218)'**BET MANAGER**
           
 
 - The goal is to build a system which can manage the football bets, in particular we want:
