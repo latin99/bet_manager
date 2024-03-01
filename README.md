@@ -1,6 +1,8 @@
 # :soccer:**BET MANAGER**:soccer:
           
-
+> [!WARNING]
+> Mattia Pema
+> 
 - The goal is to build a system which can manage the football bets, in particular we want:
   - build a file in which we are going to put the matches, week by week; we're catching the matches on this site ***site-name*** due to his grafic semplicity. We're downloading the site using the command "w3m" in a linux shell: ***full-command***
   - after the download (week by week) we're going to save in a file the matches divied by league, for example all the italian matches will be saved in a file named "seriea.txt" with this format:
